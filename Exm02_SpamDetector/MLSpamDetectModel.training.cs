@@ -14,7 +14,7 @@ namespace SpamDetector
 {
     public partial class MLSpamDetectModel
     {
-        public const string RetrainFilePath =  @"D:\ITMO_DataAnalysis\03_SpamDetector\SpamDetector\Data\email_dataset.csv";
+        public const string RetrainFilePath =  @"D:\ITMO_DataAnalysis\Exm02_SpamDetectorr\SpamDetector\email_dataset.csv";
         public const char RetrainSeparatorChar = ',';
         public const bool RetrainHasHeader =  true;
         public const bool RetrainAllowQuoting =  false;
