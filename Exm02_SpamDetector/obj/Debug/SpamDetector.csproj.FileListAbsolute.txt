@@ -1,0 +1,4 @@
+E:\User\Desktop\03_SpamDetector\SpamDetector\obj\Debug\SpamDetector.csproj.AssemblyReference.cache
+E:\User\Desktop\03_SpamDetector\SpamDetector\obj\Debug\SpamDetector.csproj.CoreCompileInputs.cache
+D:\Програмирование\ML\2 Задание\03_SpamDetector\SpamDetector\obj\Debug\SpamDetector.csproj.AssemblyReference.cache
+D:\Програмирование\ML\2 Задание\03_SpamDetector\SpamDetector\obj\Debug\SpamDetector.csproj.CoreCompileInputs.cache
